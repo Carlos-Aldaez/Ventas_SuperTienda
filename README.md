@@ -3,6 +3,10 @@
 Este repositorio contiene un análisis de ventas realizado en **Power BI**, utilizando datos de la SuperTienda. 
 Se incluyen visualizaciones clave para entender las tendencias de ventas, el comportamiento de los clientes y el rendimiento de los productos.
 
+![image](https://github.com/user-attachments/assets/9d0f862e-4efc-443e-9d43-6f49a5e76850)
+
+![image](https://github.com/user-attachments/assets/243ca5fb-6f52-47bb-be74-969f1a6a1371)
+
 ## 📂 Contenido
 - `Ventas_SuperTienda.pbix` → Archivo de Power BI con el análisis completo.
 - `SuperTienda Español.xlsx` → Archivo Excel.
